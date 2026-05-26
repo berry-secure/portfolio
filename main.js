@@ -130,8 +130,8 @@ const translations = {
 };
 
 const cvLinks = {
-  pl: "files/Michal_Krzepkowski_AI_CV_PL.pdf",
-  en: "files/Michal_Krzepkowski_AI_CV_EN.pdf",
+  pl: "files/Michal_Krzepkowski_CV_PL.pdf",
+  en: "files/Michal_Krzepkowski_CV_EN.pdf",
 };
 
 function setLanguage(lang) {
