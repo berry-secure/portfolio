@@ -1,34 +1,34 @@
 const translations = {
   pl: {
-    nav_subtitle: "AI, produkt, język, automatyzacja",
+    nav_subtitle: "AI, Linux, automatyzacja, delivery",
     nav_projects: "Projekty",
     nav_method: "Metoda",
     nav_experience: "Doświadczenie",
     nav_contact: "Kontakt",
-    hero_eyebrow: "AI Prompt Architect / AI Content Strategist",
+    hero_eyebrow: "Technical Delivery / AI-assisted Automation",
     hero_copy:
-      "Projektuję systemowe prompty, pipeline'y contentowe i interfejsy konwersacyjne, które zamieniają chaotyczny input w użyteczne decyzje, zadania, treści i produkty.",
+      "Buduję i porządkuję techniczne przepływy: Linux/VPS, automatyzację, wdrożenia, monitoring, dokumentację i AI-assisted development.",
     hero_projects: "Zobacz projekty",
     hero_cv: "Pobierz CV",
     metric_projects: "projekty portfolio",
-    metric_ai: "prompty, QA, pipeline'y",
+    metric_ai: "agent workflows",
     metric_delivery: "delivery techniczne",
-    roles_kicker: "Role, pod które pracuje to portfolio",
+    roles_kicker: "Obszary, które łączy to portfolio",
     roles_title:
-      "Język modelu, język produktu i język użytkownika w jednym miejscu.",
+      "Systemy, automatyzacja, AI i komunikacja w jednym przepływie pracy.",
     role_prompt:
-      "System prompts, formaty JSON, fallbacki, guardrails i kryteria jakości.",
+      "Administracja, troubleshooting, DNS, HTTP, firewall, VPS i środowiska serwerowe.",
     role_content:
-      "Pipeline'y od maila, PDF-a lub zgłoszenia do gotowej treści i zadania.",
+      "Bash/Python, instalatory, preflighty, runbooki i redukcja powtarzalnych działań.",
     role_ux:
-      "Mikrocopy, flow rozmowy, stany błędów, onboarding i ton komunikacji.",
+      "Prompty techniczne, agentowe workflow, debugowanie kodu i structured output.",
     role_pm:
-      "Przekładanie potrzeb biznesu na modele danych, backlog i działający produkt.",
+      "Przekładanie problemów biznesu i użytkowników na procedury, backlog i wdrożenia.",
     role_quality:
-      "Ocena outputów, kompletność, spójność, halucynacje i użyteczność odpowiedzi.",
+      "Logi, heartbeaty, alerty, kryteria akceptacji i dokumentowanie incydentów.",
     projects_kicker: "Portfolio projektów",
     projects_title:
-      "Produkty, które pokazują myślenie promptowe, produktowe i techniczne.",
+      "Produkty, które pokazują infrastrukturę, automatyzację i techniczne dowożenie.",
     project_uniflow:
       "Platforma workflow z warstwą AI: klasyfikacja ticketów, sugestie zadań z maili, czyszczenie HTML, parsowanie PDF-ów, fallback parser i odpowiedzi w strukturze JSON.",
     project_signal:
@@ -36,19 +36,19 @@ const translations = {
     project_berry:
       "Router/appliance na Raspberry Pi z WebUI, DNS, WireGuard, firewallem, Sambą, publicznym instalatorem i security daemonem.",
     project_goat:
-      "Prototyp gry SpriteKit, 30 poziomów, strona marketingowa, support, privacy policy i przygotowanie pod TestFlight/App Store.",
+      "Statyczne portfolio z CV, uruchamiane jako obraz Docker przez Coolify, z nginx, cache, security headers i weryfikacją DNS/TLS.",
     project_open: "Otwórz projekt",
     method_kicker: "Sposób pracy",
-    method_title: "Od niejasnego problemu do testowalnego outputu modelu.",
-    method_1_title: "Kontrakt odpowiedzi",
+    method_title: "Od niejasnego problemu do wdrożonego i sprawdzonego rozwiązania.",
+    method_1_title: "Diagnoza",
     method_1:
-      "Najpierw definiuję, co model ma zwrócić, w jakim formacie i według jakich kryteriów będzie oceniany.",
-    method_2_title: "Kontekst i ograniczenia",
+      "Najpierw zbieram fakty: logi, objawy, środowisko, zależności i realny wpływ problemu.",
+    method_2_title: "Automatyzacja",
     method_2:
-      "Rozdzielam instrukcję, dane wejściowe, style guide, ryzyka i przypadki brzegowe.",
-    method_3_title: "Fallback i ewaluacja",
+      "Powtarzalne kroki zamieniam w skrypt, runbook, checklistę lub stabilny proces deployu.",
+    method_3_title: "Weryfikacja",
     method_3:
-      "Projektuję zachowanie, gdy model milczy, halucynuje, zwraca zły format albo brakuje danych.",
+      "Sprawdzam efekt: linki, statusy HTTP, responsywność, logi, PDF-y, regresje i dokumentację.",
     experience_kicker: "Doświadczenie",
     experience_title: "Praktyka supportu, redakcji i technicznego delivery.",
     exp_1:
@@ -60,39 +60,39 @@ const translations = {
       "Korekta, redakcja, fotoreportaż, treści pod ruch, sprzedaż, negocjacje i prowadzenie własnej firmy.",
     contact_kicker: "Kontakt",
     contact_title:
-      "Szukasz osoby, która potrafi rozmawiać z biznesem, użytkownikiem i modelem?",
+      "Szukasz osoby, która potrafi rozmawiać z biznesem, użytkownikiem, developerem i systemem?",
     contact_cv: "Pobierz CV",
   },
   en: {
-    nav_subtitle: "AI, product, language, automation",
+    nav_subtitle: "AI, Linux, automation, delivery",
     nav_projects: "Projects",
     nav_method: "Method",
     nav_experience: "Experience",
     nav_contact: "Contact",
-    hero_eyebrow: "AI Prompt Architect / AI Content Strategist",
+    hero_eyebrow: "Technical Delivery / AI-assisted Automation",
     hero_copy:
-      "I design system prompts, content pipelines and conversational interfaces that turn messy input into useful decisions, tasks, content and products.",
+      "I build and structure technical flows: Linux/VPS, automation, deployments, monitoring, documentation and AI-assisted development.",
     hero_projects: "View projects",
     hero_cv: "Download CV",
     metric_projects: "portfolio projects",
-    metric_ai: "prompts, QA, pipelines",
+    metric_ai: "agent workflows",
     metric_delivery: "technical delivery",
-    roles_kicker: "Roles this portfolio is built for",
+    roles_kicker: "Areas connected by this portfolio",
     roles_title:
-      "The language of the model, the product and the user in one place.",
+      "Systems, automation, AI and communication in one working flow.",
     role_prompt:
-      "System prompts, JSON formats, fallback paths, guardrails and quality criteria.",
+      "Administration, troubleshooting, DNS, HTTP, firewall, VPS and server environments.",
     role_content:
-      "Pipelines from email, PDF or ticket input to polished content and tasks.",
+      "Bash/Python, installers, preflights, runbooks and reducing repeatable work.",
     role_ux:
-      "Microcopy, conversation flows, error states, onboarding and communication tone.",
+      "Technical prompts, agent workflows, code debugging and structured output.",
     role_pm:
-      "Translating business needs into data models, backlog items and working products.",
+      "Turning business and user problems into procedures, backlog items and deployments.",
     role_quality:
-      "Output evaluation, completeness, consistency, hallucination checks and usefulness.",
+      "Logs, heartbeats, alerts, acceptance criteria and incident documentation.",
     projects_kicker: "Project portfolio",
     projects_title:
-      "Products that show prompt, product and technical thinking.",
+      "Products that show infrastructure, automation and technical delivery.",
     project_uniflow:
       "Workflow platform with an AI layer: ticket classification, task suggestions from emails, HTML cleanup, PDF parsing, fallback parser and structured JSON responses.",
     project_signal:
@@ -100,19 +100,19 @@ const translations = {
     project_berry:
       "Raspberry Pi router/appliance with WebUI, DNS, WireGuard, firewall, Samba, public installer and security daemon.",
     project_goat:
-      "SpriteKit game prototype, 30 levels, marketing page, support, privacy policy and TestFlight/App Store preparation.",
+      "Static CV portfolio deployed as a Docker image through Coolify, with nginx, caching, security headers and DNS/TLS verification.",
     project_open: "Open project",
     method_kicker: "Working method",
-    method_title: "From unclear problem to testable model output.",
-    method_1_title: "Response contract",
+    method_title: "From unclear problem to deployed and verified solution.",
+    method_1_title: "Diagnosis",
     method_1:
-      "I first define what the model should return, in which format and against which quality criteria.",
-    method_2_title: "Context and constraints",
+      "I first gather facts: logs, symptoms, environment, dependencies and the real impact.",
+    method_2_title: "Automation",
     method_2:
-      "I separate instructions, input data, style guide, risks and edge cases.",
-    method_3_title: "Fallback and evaluation",
+      "I turn repeatable steps into a script, runbook, checklist or stable deployment process.",
+    method_3_title: "Verification",
     method_3:
-      "I design what happens when the model is silent, hallucinates, returns a bad format or lacks data.",
+      "I verify the result: links, HTTP statuses, responsiveness, logs, PDFs, regressions and docs.",
     experience_kicker: "Experience",
     experience_title: "Support, editorial work and technical delivery in practice.",
     exp_1:
@@ -124,7 +124,7 @@ const translations = {
       "Proofreading, editing, photojournalism, traffic-oriented content, sales, negotiations and running a company.",
     contact_kicker: "Contact",
     contact_title:
-      "Looking for someone who can talk to business, users and the model?",
+      "Looking for someone who can talk to business, users, developers and the system?",
     contact_cv: "Download CV",
   },
 };
@@ -238,7 +238,7 @@ function drawFrame(time) {
     if (index % 2 === 0) {
       ctx.fillStyle = "rgba(255,253,248,0.72)";
       ctx.font = "700 12px Inter, system-ui, sans-serif";
-      ctx.fillText(["prompt", "context", "eval", "ship"][index / 2], point.x + 14, point.y + 4);
+      ctx.fillText(["linux", "logs", "deploy", "ai"][index / 2], point.x + 14, point.y + 4);
     }
   });
 
